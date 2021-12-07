@@ -1,4 +1,4 @@
-const MEASUREMENTS = [199 ,200 ,208 ,210 ,200 ,207 ,240 ,269 ,260 ,263];
+import { MEASUREMENTS } from './data.js'
 
 const calculateIncreasingMeasurements = (measurements) => {
     let increasing = 0;
